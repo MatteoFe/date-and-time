@@ -16,7 +16,7 @@
         ddd = ['Dom', 'Lun', 'Mar', 'Mer', 'Gio', 'Ven', 'Sab'],
         dd = ['Do', 'Lu', 'Ma', 'Me', 'Gi', 'Ve', 'Sa'],
         A = ['di mattina', 'di mattina', 'di mattina', 'di mattina', 'di mattina', 'di mattina', 'di mattina', 'di mattina', 'di mattina', 'di mattina', 'di mattina', 'di mattina',    // 0 - 11
-            'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio', 'di pomerrigio'];    // 12 - 23
+            'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio', 'di pomeriggio'];    // 12 - 23
 
     describe('format with "it"', function () {
         before(function () {
