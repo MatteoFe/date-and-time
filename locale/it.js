@@ -13,7 +13,7 @@
             dddd: ['Domenica', 'Lunedì', 'Martedì', 'Mercoledì', 'Giovedì', 'Venerdì', 'Sabato'],
             ddd: ['Dom', 'Lun', 'Mar', 'Mer', 'Gio', 'Ven', 'Sab'],
             dd: ['Do', 'Lu', 'Ma', 'Me', 'Gi', 'Ve', 'Sa'],
-            A: ['di mattina', 'di pomerrigio']
+            A: ['di mattina', 'di pomeriggio']
         });
     };
 
